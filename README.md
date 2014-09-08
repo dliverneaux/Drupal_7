@@ -1,6 +1,3 @@
-Drupal_7
-========
+# Distribution D7
 
-Distribution de base : Drupal 7
-
-Mon premier dépot Git
+Version 0.1
